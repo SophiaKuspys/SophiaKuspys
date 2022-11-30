@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.straightupart.com/wp-content/uploads/2020/06/new-york-city-skyline-art-print-abstract-blue-watercolour-on-grey-wash-background-5ee27b45.jpg" width="1000" height="500"/>
+  <img src="https://www.artgroup.com/assets/img/products/PPR43824"/>
 </div>
 
 ## Hi there 👋 
